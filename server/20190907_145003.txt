@@ -1,0 +1,1672 @@
+2019-09-07 14:50:04,936 - INFO - vision: 3
+2019-09-07 14:50:05,746 - INFO -                     round 0
+2019-09-07 14:50:05,746 - INFO - player_id 0
+2019-09-07 14:50:05,746 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,746 - INFO - {}
+2019-09-07 14:50:05,746 - INFO - player_pos: 
+2019-09-07 14:50:05,746 - INFO - Point2d(10, 3)
+2019-09-07 14:50:05,746 - INFO - police  down
+2019-09-07 14:50:05,746 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,746 - INFO - []
+2019-09-07 14:50:05,746 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,746 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,746 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,746 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,746 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,746 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,746 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,746 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,746 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,746 - INFO - gain: 1.667347
+2019-09-07 14:50:05,746 - INFO - police  left
+2019-09-07 14:50:05,746 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,746 - INFO - []
+2019-09-07 14:50:05,756 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,756 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,756 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,756 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,756 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,756 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,756 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,756 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,756 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,756 - INFO - gain: 0.917347
+2019-09-07 14:50:05,756 - INFO - police  right
+2019-09-07 14:50:05,756 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,756 - INFO - []
+2019-09-07 14:50:05,756 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,756 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,756 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,756 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,756 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,756 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,756 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,756 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,756 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,756 - INFO - gain: 0.667497
+2019-09-07 14:50:05,756 - INFO - police  stop
+2019-09-07 14:50:05,756 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,756 - INFO - []
+2019-09-07 14:50:05,756 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,756 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,756 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,756 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,756 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,756 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,756 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,756 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,756 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,756 - INFO - gain: 0.000830
+2019-09-07 14:50:05,756 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,756 - INFO - {2: 1.6673465986734664, 3: 0.9173465986734661, 4: 0.667496583674966, 5: 0.0008299170082992364}
+2019-09-07 14:50:05,756 - INFO - player_id 1
+2019-09-07 14:50:05,756 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,756 - INFO - {0: Point2d(10, 4)}
+2019-09-07 14:50:05,756 - INFO - player_pos: 
+2019-09-07 14:50:05,756 - INFO - Point2d(9, 7)
+2019-09-07 14:50:05,756 - INFO - police  up
+2019-09-07 14:50:05,756 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,756 - INFO - []
+2019-09-07 14:50:05,766 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,766 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,766 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,766 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:05,766 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,766 - INFO - mean_player_disc: 3
+2019-09-07 14:50:05,766 - INFO - min_player_disc: 3
+2019-09-07 14:50:05,766 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,766 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,766 - INFO - gain: 1.128231
+2019-09-07 14:50:05,766 - INFO - police  down
+2019-09-07 14:50:05,766 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,766 - INFO - []
+2019-09-07 14:50:05,766 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,766 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,766 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,766 - INFO - min_wormhole_disc: 4
+2019-09-07 14:50:05,766 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,766 - INFO - mean_player_disc: 5
+2019-09-07 14:50:05,766 - INFO - min_player_disc: 5
+2019-09-07 14:50:05,766 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,766 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,766 - INFO - gain: 0.630850
+2019-09-07 14:50:05,766 - INFO - police  left
+2019-09-07 14:50:05,766 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,766 - INFO - []
+2019-09-07 14:50:05,766 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,766 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,766 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,766 - INFO - min_wormhole_disc: 4
+2019-09-07 14:50:05,766 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,766 - INFO - mean_player_disc: 5
+2019-09-07 14:50:05,766 - INFO - min_player_disc: 5
+2019-09-07 14:50:05,766 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,766 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,766 - INFO - gain: 0.630850
+2019-09-07 14:50:05,766 - INFO - police  right
+2019-09-07 14:50:05,766 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,766 - INFO - []
+2019-09-07 14:50:05,766 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,766 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,766 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,766 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:05,766 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,766 - INFO - mean_player_disc: 3
+2019-09-07 14:50:05,766 - INFO - min_player_disc: 3
+2019-09-07 14:50:05,766 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,766 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,766 - INFO - gain: 0.628231
+2019-09-07 14:50:05,766 - INFO - police  stop
+2019-09-07 14:50:05,766 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,766 - INFO - []
+2019-09-07 14:50:05,776 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,776 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,776 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,776 - INFO - min_wormhole_disc: 5
+2019-09-07 14:50:05,776 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,776 - INFO - mean_player_disc: 4
+2019-09-07 14:50:05,776 - INFO - min_player_disc: 4
+2019-09-07 14:50:05,776 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,776 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,776 - INFO - gain: -0.035817
+2019-09-07 14:50:05,776 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,776 - INFO - {1: 1.1282308673894519, 2: 0.6308499150084993, 3: 0.6308499150084993, 4: 0.6282308673894518, 5: -0.03581675165816745}
+2019-09-07 14:50:05,776 - INFO - player_id 2
+2019-09-07 14:50:05,776 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,776 - INFO - {0: Point2d(10, 4), 1: Point2d(9, 6)}
+2019-09-07 14:50:05,776 - INFO - player_pos: 
+2019-09-07 14:50:05,776 - INFO - Point2d(9, 13)
+2019-09-07 14:50:05,776 - INFO - police  up
+2019-09-07 14:50:05,776 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,776 - INFO - []
+2019-09-07 14:50:05,776 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,776 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,776 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,776 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:05,776 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,776 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,776 - INFO - min_player_disc: 6
+2019-09-07 14:50:05,776 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,776 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,776 - INFO - gain: 0.638945
+2019-09-07 14:50:05,776 - INFO - police  down
+2019-09-07 14:50:05,776 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,776 - INFO - []
+2019-09-07 14:50:05,776 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,776 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,776 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,776 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,776 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,776 - INFO - mean_player_disc: 9
+2019-09-07 14:50:05,776 - INFO - min_player_disc: 8
+2019-09-07 14:50:05,776 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,776 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,776 - INFO - gain: 1.156395
+2019-09-07 14:50:05,776 - INFO - police  left
+2019-09-07 14:50:05,776 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,776 - INFO - []
+2019-09-07 14:50:05,786 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,786 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,786 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,786 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:05,786 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,786 - INFO - mean_player_disc: 9
+2019-09-07 14:50:05,786 - INFO - min_player_disc: 8
+2019-09-07 14:50:05,786 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,786 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,786 - INFO - gain: 0.642120
+2019-09-07 14:50:05,786 - INFO - police  right
+2019-09-07 14:50:05,786 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,786 - INFO - []
+2019-09-07 14:50:05,786 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,786 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,786 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,786 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,786 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,786 - INFO - mean_player_disc: 8
+2019-09-07 14:50:05,786 - INFO - min_player_disc: 8
+2019-09-07 14:50:05,786 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,786 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,786 - INFO - gain: 0.656395
+2019-09-07 14:50:05,786 - INFO - police  stop
+2019-09-07 14:50:05,786 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,786 - INFO - []
+2019-09-07 14:50:05,796 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,796 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,796 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,796 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,796 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,796 - INFO - mean_player_disc: 8
+2019-09-07 14:50:05,796 - INFO - min_player_disc: 7
+2019-09-07 14:50:05,796 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,796 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,796 - INFO - gain: -0.024150
+2019-09-07 14:50:05,796 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,796 - INFO - {1: 0.6389451531037376, 2: 1.156395471563955, 3: 0.6421197562783407, 4: 0.656395471563955, 5: -0.024150084991500783}
+2019-09-07 14:50:05,796 - INFO - player_id 3
+2019-09-07 14:50:05,796 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,796 - INFO - {0: Point2d(10, 4), 1: Point2d(9, 6), 2: Point2d(9, 14)}
+2019-09-07 14:50:05,796 - INFO - player_pos: 
+2019-09-07 14:50:05,796 - INFO - Point2d(9, 19)
+2019-09-07 14:50:05,796 - INFO - police  up
+2019-09-07 14:50:05,796 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,796 - INFO - []
+2019-09-07 14:50:05,796 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,796 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,796 - INFO - min_power_disc: 3
+2019-09-07 14:50:05,796 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,796 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,796 - INFO - mean_player_disc: 10
+2019-09-07 14:50:05,796 - INFO - min_player_disc: 4
+2019-09-07 14:50:05,796 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,796 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,796 - INFO - gain: 0.397507
+2019-09-07 14:50:05,796 - INFO - police  left
+2019-09-07 14:50:05,796 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,796 - INFO - []
+2019-09-07 14:50:05,796 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,796 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,796 - INFO - min_power_disc: 5
+2019-09-07 14:50:05,796 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,796 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,796 - INFO - mean_player_disc: 12
+2019-09-07 14:50:05,796 - INFO - min_player_disc: 6
+2019-09-07 14:50:05,796 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,796 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,796 - INFO - gain: 0.153221
+2019-09-07 14:50:05,796 - INFO - police  right
+2019-09-07 14:50:05,796 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,796 - INFO - []
+2019-09-07 14:50:05,796 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,796 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,796 - INFO - min_power_disc: 4
+2019-09-07 14:50:05,796 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:05,796 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,796 - INFO - mean_player_disc: 11
+2019-09-07 14:50:05,796 - INFO - min_player_disc: 6
+2019-09-07 14:50:05,796 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,796 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,796 - INFO - gain: 0.238945
+2019-09-07 14:50:05,796 - INFO - police  stop
+2019-09-07 14:50:05,796 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,796 - INFO - []
+2019-09-07 14:50:05,805 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,805 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,805 - INFO - min_power_disc: 4
+2019-09-07 14:50:05,805 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,805 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,805 - INFO - mean_player_disc: 11
+2019-09-07 14:50:05,805 - INFO - min_player_disc: 5
+2019-09-07 14:50:05,805 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,805 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,805 - INFO - gain: -0.428317
+2019-09-07 14:50:05,805 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,805 - INFO - {1: 0.3975065826750658, 3: 0.1532208683893515, 4: 0.23894515310373718, 5: -0.42831675165816757}
+2019-09-07 14:50:05,805 - INFO - action: 
+2019-09-07 14:50:05,805 - INFO - [{'player_id': 0, 'move': ['down'], 'team': 2222}, {'player_id': 1, 'move': ['up'], 'team': 2222}, {'player_id': 2, 'move': ['down'], 'team': 2222}, {'player_id': 3, 'move': ['up'], 'team': 2222}]
+2019-09-07 14:50:05,825 - INFO -                     round 1
+2019-09-07 14:50:05,825 - INFO - player_id 3
+2019-09-07 14:50:05,825 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,825 - INFO - {}
+2019-09-07 14:50:05,825 - INFO - player_pos: 
+2019-09-07 14:50:05,825 - INFO - Point2d(9, 18)
+2019-09-07 14:50:05,825 - INFO - police  up
+2019-09-07 14:50:05,825 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,825 - INFO - []
+2019-09-07 14:50:05,825 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,825 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,825 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,825 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,825 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,825 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,825 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,825 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,825 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,825 - INFO - gain: 1.167347
+2019-09-07 14:50:05,825 - INFO - police  down
+2019-09-07 14:50:05,825 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,825 - INFO - []
+2019-09-07 14:50:05,825 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,825 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,825 - INFO - min_power_disc: 4
+2019-09-07 14:50:05,825 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,825 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,825 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,825 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,825 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,825 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,825 - INFO - gain: -0.224310
+2019-09-07 14:50:05,825 - INFO - police  left
+2019-09-07 14:50:05,825 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,825 - INFO - []
+2019-09-07 14:50:05,835 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,835 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,835 - INFO - min_power_disc: 4
+2019-09-07 14:50:05,835 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,835 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,835 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,835 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,835 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,835 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,835 - INFO - gain: 0.454847
+2019-09-07 14:50:05,835 - INFO - police  right
+2019-09-07 14:50:05,835 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,835 - INFO - []
+2019-09-07 14:50:05,835 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,835 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,835 - INFO - min_power_disc: 3
+2019-09-07 14:50:05,835 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,835 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,835 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,835 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,835 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,835 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,835 - INFO - gain: 0.405007
+2019-09-07 14:50:05,835 - INFO - police  stop
+2019-09-07 14:50:05,835 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,835 - INFO - []
+2019-09-07 14:50:05,835 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,835 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,835 - INFO - min_power_disc: 3
+2019-09-07 14:50:05,835 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,835 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,835 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,835 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,835 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,835 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,835 - INFO - gain: -0.249170
+2019-09-07 14:50:05,835 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,835 - INFO - {1: 1.1673465986734661, 2: -0.2243100689931008, 3: 0.4548465986734659, 4: 0.4050065826750658, 5: -0.24917008299170088}
+2019-09-07 14:50:05,835 - INFO - player_id 1
+2019-09-07 14:50:05,835 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,835 - INFO - {3: Point2d(9, 17)}
+2019-09-07 14:50:05,835 - INFO - player_pos: 
+2019-09-07 14:50:05,835 - INFO - Point2d(9, 6)
+2019-09-07 14:50:05,835 - INFO - police  up
+2019-09-07 14:50:05,835 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,835 - INFO - []
+2019-09-07 14:50:05,845 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,845 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,845 - INFO - min_power_disc: 0
+2019-09-07 14:50:05,845 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,845 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,845 - INFO - mean_player_disc: 12
+2019-09-07 14:50:05,845 - INFO - min_player_disc: 12
+2019-09-07 14:50:05,845 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,845 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,845 - INFO - gain: 2.647324
+2019-09-07 14:50:05,845 - INFO - police  down
+2019-09-07 14:50:05,845 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,845 - INFO - []
+2019-09-07 14:50:05,845 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,845 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,845 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,845 - INFO - min_wormhole_disc: 5
+2019-09-07 14:50:05,845 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,845 - INFO - mean_player_disc: 10
+2019-09-07 14:50:05,845 - INFO - min_player_disc: 10
+2019-09-07 14:50:05,845 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,845 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,845 - INFO - gain: -0.024908
+2019-09-07 14:50:05,845 - INFO - police  right
+2019-09-07 14:50:05,845 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,845 - INFO - []
+2019-09-07 14:50:05,845 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,845 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,845 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,845 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,845 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,845 - INFO - mean_player_disc: 12
+2019-09-07 14:50:05,845 - INFO - min_player_disc: 12
+2019-09-07 14:50:05,845 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,845 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,845 - INFO - gain: 1.147324
+2019-09-07 14:50:05,845 - INFO - police  stop
+2019-09-07 14:50:05,845 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,845 - INFO - []
+2019-09-07 14:50:05,855 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,855 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,855 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,855 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:05,855 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,855 - INFO - mean_player_disc: 11
+2019-09-07 14:50:05,855 - INFO - min_player_disc: 11
+2019-09-07 14:50:05,855 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,855 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,855 - INFO - gain: 0.478231
+2019-09-07 14:50:05,855 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,855 - INFO - {1: 2.647324273982858, 2: -0.02490766074907654, 4: 1.1473242739828584, 5: 0.4782308673894516}
+2019-09-07 14:50:05,855 - INFO - player_id 0
+2019-09-07 14:50:05,855 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,855 - INFO - {1: Point2d(9, 5), 3: Point2d(9, 17)}
+2019-09-07 14:50:05,855 - INFO - player_pos: 
+2019-09-07 14:50:05,855 - INFO - Point2d(10, 4)
+2019-09-07 14:50:05,855 - INFO - police  up
+2019-09-07 14:50:05,855 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,855 - INFO - []
+2019-09-07 14:50:05,855 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,855 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,855 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,855 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,855 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,855 - INFO - mean_player_disc: 9
+2019-09-07 14:50:05,855 - INFO - min_player_disc: 3
+2019-09-07 14:50:05,855 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,855 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,855 - INFO - gain: -0.024160
+2019-09-07 14:50:05,855 - INFO - police  down
+2019-09-07 14:50:05,855 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,855 - INFO - []
+2019-09-07 14:50:05,865 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,865 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,865 - INFO - min_power_disc: 0
+2019-09-07 14:50:05,865 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,865 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,865 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,865 - INFO - min_player_disc: 1
+2019-09-07 14:50:05,865 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,865 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,865 - INFO - gain: 2.617507
+2019-09-07 14:50:05,865 - INFO - police  left
+2019-09-07 14:50:05,865 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,865 - INFO - []
+2019-09-07 14:50:05,865 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,865 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,865 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,865 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,865 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,865 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,865 - INFO - min_player_disc: 1
+2019-09-07 14:50:05,865 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,865 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,865 - INFO - gain: 1.117507
+2019-09-07 14:50:05,865 - INFO - police  right
+2019-09-07 14:50:05,865 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,865 - INFO - []
+2019-09-07 14:50:05,865 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,865 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,865 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,865 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,865 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,865 - INFO - mean_player_disc: 9
+2019-09-07 14:50:05,865 - INFO - min_player_disc: 3
+2019-09-07 14:50:05,865 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,865 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,865 - INFO - gain: 1.142507
+2019-09-07 14:50:05,865 - INFO - police  stop
+2019-09-07 14:50:05,865 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,865 - INFO - []
+2019-09-07 14:50:05,875 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,875 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,875 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,875 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,875 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,875 - INFO - mean_player_disc: 8
+2019-09-07 14:50:05,875 - INFO - min_player_disc: 2
+2019-09-07 14:50:05,875 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,875 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,875 - INFO - gain: 0.467507
+2019-09-07 14:50:05,875 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,875 - INFO - {1: -0.024160083991600773, 2: 2.617506582675066, 3: 1.117506582675066, 4: 1.1425065826750662, 5: 0.4675065826750659}
+2019-09-07 14:50:05,875 - INFO - player_id 2
+2019-09-07 14:50:05,875 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,875 - INFO - {0: Point2d(10, 5), 1: Point2d(9, 5), 3: Point2d(9, 17)}
+2019-09-07 14:50:05,875 - INFO - player_pos: 
+2019-09-07 14:50:05,875 - INFO - Point2d(9, 14)
+2019-09-07 14:50:05,875 - INFO - police  up
+2019-09-07 14:50:05,875 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,875 - INFO - []
+2019-09-07 14:50:05,875 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,875 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,875 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,875 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,875 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,875 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,875 - INFO - min_player_disc: 4
+2019-09-07 14:50:05,875 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,875 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,875 - INFO - gain: -0.031650
+2019-09-07 14:50:05,875 - INFO - police  down
+2019-09-07 14:50:05,875 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,875 - INFO - []
+2019-09-07 14:50:05,885 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,885 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,885 - INFO - min_power_disc: 0
+2019-09-07 14:50:05,885 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,885 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,885 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,885 - INFO - min_player_disc: 2
+2019-09-07 14:50:05,885 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,885 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,885 - INFO - gain: 2.634173
+2019-09-07 14:50:05,885 - INFO - police  right
+2019-09-07 14:50:05,885 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,885 - INFO - []
+2019-09-07 14:50:05,885 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,885 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,885 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,885 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,885 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,885 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,885 - INFO - min_player_disc: 4
+2019-09-07 14:50:05,885 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,885 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,885 - INFO - gain: 1.147507
+2019-09-07 14:50:05,885 - INFO - police  stop
+2019-09-07 14:50:05,885 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,885 - INFO - []
+2019-09-07 14:50:05,895 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,895 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,895 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,895 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,895 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,895 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,895 - INFO - min_player_disc: 3
+2019-09-07 14:50:05,895 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,895 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,895 - INFO - gain: 0.475840
+2019-09-07 14:50:05,895 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,895 - INFO - {1: -0.031650084991500786, 2: 2.6341732493417327, 4: 1.1475065826750661, 5: 0.4758399160083992}
+2019-09-07 14:50:05,895 - INFO - action: 
+2019-09-07 14:50:05,895 - INFO - [{'player_id': 3, 'move': ['up'], 'team': 2222}, {'player_id': 1, 'move': ['up'], 'team': 2222}, {'player_id': 0, 'move': ['down'], 'team': 2222}, {'player_id': 2, 'move': ['down'], 'team': 2222}]
+2019-09-07 14:50:05,915 - INFO -                     round 2
+2019-09-07 14:50:05,915 - INFO - player_id 3
+2019-09-07 14:50:05,915 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,915 - INFO - {}
+2019-09-07 14:50:05,915 - INFO - player_pos: 
+2019-09-07 14:50:05,915 - INFO - Point2d(9, 17)
+2019-09-07 14:50:05,915 - INFO - police  up
+2019-09-07 14:50:05,915 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,915 - INFO - []
+2019-09-07 14:50:05,915 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,915 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,915 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,915 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,915 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,915 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,915 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,915 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,915 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,915 - INFO - gain: 1.167347
+2019-09-07 14:50:05,915 - INFO - police  down
+2019-09-07 14:50:05,915 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,915 - INFO - []
+2019-09-07 14:50:05,915 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,915 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,915 - INFO - min_power_disc: 4
+2019-09-07 14:50:05,915 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,915 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,915 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,915 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,915 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,915 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,915 - INFO - gain: -0.099320
+2019-09-07 14:50:05,915 - INFO - police  left
+2019-09-07 14:50:05,915 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,915 - INFO - []
+2019-09-07 14:50:05,926 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,926 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,926 - INFO - min_power_disc: 4
+2019-09-07 14:50:05,926 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,926 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,926 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,926 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,926 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,926 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,926 - INFO - gain: 0.267497
+2019-09-07 14:50:05,926 - INFO - police  right
+2019-09-07 14:50:05,926 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,926 - INFO - []
+2019-09-07 14:50:05,926 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,926 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,926 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,926 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,926 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,926 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,926 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,926 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,926 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,926 - INFO - gain: 0.667497
+2019-09-07 14:50:05,926 - INFO - police  stop
+2019-09-07 14:50:05,926 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,926 - INFO - []
+2019-09-07 14:50:05,936 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,936 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,936 - INFO - min_power_disc: 3
+2019-09-07 14:50:05,936 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,936 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,936 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:05,936 - INFO - min_player_disc: 10000
+2019-09-07 14:50:05,936 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,936 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,936 - INFO - gain: -0.249170
+2019-09-07 14:50:05,936 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,936 - INFO - {1: 1.1673465986734661, 2: -0.09932006799320081, 3: 0.26749658367496576, 4: 0.667496583674966, 5: -0.24917008299170088}
+2019-09-07 14:50:05,936 - INFO - player_id 0
+2019-09-07 14:50:05,936 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,936 - INFO - {3: Point2d(9, 16)}
+2019-09-07 14:50:05,936 - INFO - player_pos: 
+2019-09-07 14:50:05,936 - INFO - Point2d(10, 5)
+2019-09-07 14:50:05,936 - INFO - police  up
+2019-09-07 14:50:05,936 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,936 - INFO - []
+2019-09-07 14:50:05,936 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,936 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,936 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,936 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,936 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,936 - INFO - mean_player_disc: 13
+2019-09-07 14:50:05,936 - INFO - min_player_disc: 13
+2019-09-07 14:50:05,936 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,936 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,936 - INFO - gain: -0.006303
+2019-09-07 14:50:05,936 - INFO - police  down
+2019-09-07 14:50:05,936 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,936 - INFO - []
+2019-09-07 14:50:05,936 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,936 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,936 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,936 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,936 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,936 - INFO - mean_player_disc: 11
+2019-09-07 14:50:05,936 - INFO - min_player_disc: 11
+2019-09-07 14:50:05,936 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,936 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,936 - INFO - gain: 0.646683
+2019-09-07 14:50:05,936 - INFO - police  left
+2019-09-07 14:50:05,936 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,936 - INFO - []
+2019-09-07 14:50:05,946 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,946 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,946 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,946 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,946 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,946 - INFO - mean_player_disc: 11
+2019-09-07 14:50:05,946 - INFO - min_player_disc: 11
+2019-09-07 14:50:05,946 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,946 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,946 - INFO - gain: 1.146683
+2019-09-07 14:50:05,946 - INFO - police  right
+2019-09-07 14:50:05,946 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,946 - INFO - []
+2019-09-07 14:50:05,946 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,946 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,946 - INFO - min_power_disc: 0
+2019-09-07 14:50:05,946 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,946 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,946 - INFO - mean_player_disc: 13
+2019-09-07 14:50:05,946 - INFO - min_player_disc: 13
+2019-09-07 14:50:05,946 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,946 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,946 - INFO - gain: 2.660364
+2019-09-07 14:50:05,946 - INFO - police  stop
+2019-09-07 14:50:05,946 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,946 - INFO - []
+2019-09-07 14:50:05,956 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,956 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,956 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,956 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,956 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,956 - INFO - mean_player_disc: 12
+2019-09-07 14:50:05,956 - INFO - min_player_disc: 12
+2019-09-07 14:50:05,956 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,956 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,956 - INFO - gain: 0.493148
+2019-09-07 14:50:05,956 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,956 - INFO - {1: -0.006302941134457916, 2: 0.6466832483418328, 3: 1.1466832483418328, 4: 2.660363725532209, 5: 0.49314760831609156}
+2019-09-07 14:50:05,956 - INFO - player_id 1
+2019-09-07 14:50:05,956 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,956 - INFO - {0: Point2d(11, 5), 3: Point2d(9, 16)}
+2019-09-07 14:50:05,956 - INFO - player_pos: 
+2019-09-07 14:50:05,956 - INFO - Point2d(9, 5)
+2019-09-07 14:50:05,956 - INFO - police  up
+2019-09-07 14:50:05,956 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,956 - INFO - []
+2019-09-07 14:50:05,956 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,956 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,956 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,956 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,956 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,956 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,956 - INFO - min_player_disc: 3
+2019-09-07 14:50:05,956 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,956 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,956 - INFO - gain: 0.642507
+2019-09-07 14:50:05,956 - INFO - police  down
+2019-09-07 14:50:05,956 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,956 - INFO - []
+2019-09-07 14:50:05,966 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,966 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,966 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,966 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:05,966 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,966 - INFO - mean_player_disc: 6
+2019-09-07 14:50:05,966 - INFO - min_player_disc: 3
+2019-09-07 14:50:05,966 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,966 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,966 - INFO - gain: -0.038436
+2019-09-07 14:50:05,966 - INFO - police  left
+2019-09-07 14:50:05,966 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,966 - INFO - []
+2019-09-07 14:50:05,966 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,966 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,966 - INFO - min_power_disc: 0
+2019-09-07 14:50:05,966 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,966 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,966 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,966 - INFO - min_player_disc: 3
+2019-09-07 14:50:05,966 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,966 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,966 - INFO - gain: 2.630017
+2019-09-07 14:50:05,966 - INFO - police  right
+2019-09-07 14:50:05,966 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,966 - INFO - []
+2019-09-07 14:50:05,976 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,976 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,976 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,976 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,976 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,976 - INFO - mean_player_disc: 6
+2019-09-07 14:50:05,976 - INFO - min_player_disc: 1
+2019-09-07 14:50:05,976 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,976 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,976 - INFO - gain: 1.117507
+2019-09-07 14:50:05,976 - INFO - police  stop
+2019-09-07 14:50:05,976 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,976 - INFO - []
+2019-09-07 14:50:05,976 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,976 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,976 - INFO - min_power_disc: 1
+2019-09-07 14:50:05,976 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:05,976 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,976 - INFO - mean_player_disc: 6
+2019-09-07 14:50:05,976 - INFO - min_player_disc: 2
+2019-09-07 14:50:05,976 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,976 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,976 - INFO - gain: 0.455017
+2019-09-07 14:50:05,976 - INFO - police. choices_gains: 
+2019-09-07 14:50:05,976 - INFO - {1: 0.642506582675066, 2: -0.03843579927721507, 3: 2.6300165816751657, 4: 1.117506582675066, 5: 0.4550165816751659}
+2019-09-07 14:50:05,976 - INFO - player_id 2
+2019-09-07 14:50:05,976 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:05,976 - INFO - {0: Point2d(11, 5), 1: Point2d(8, 5), 3: Point2d(9, 16)}
+2019-09-07 14:50:05,976 - INFO - player_pos: 
+2019-09-07 14:50:05,976 - INFO - Point2d(9, 15)
+2019-09-07 14:50:05,976 - INFO - police  up
+2019-09-07 14:50:05,976 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,976 - INFO - []
+2019-09-07 14:50:05,986 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,986 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,986 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,986 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,986 - INFO - last_pos_disc: 0
+2019-09-07 14:50:05,986 - INFO - mean_player_disc: 7
+2019-09-07 14:50:05,986 - INFO - min_player_disc: 2
+2019-09-07 14:50:05,986 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,986 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,986 - INFO - gain: -0.032493
+2019-09-07 14:50:05,986 - INFO - police  down
+2019-09-07 14:50:05,986 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,986 - INFO - []
+2019-09-07 14:50:05,986 - INFO - bool_overlay: 1
+2019-09-07 14:50:05,986 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,986 - INFO - min_power_disc: 2
+2019-09-07 14:50:05,986 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,986 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,986 - INFO - mean_player_disc: 8
+2019-09-07 14:50:05,986 - INFO - min_player_disc: 0
+2019-09-07 14:50:05,986 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,986 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,986 - INFO - gain: -2.432493
+2019-09-07 14:50:05,986 - INFO - police  left
+2019-09-07 14:50:05,986 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,986 - INFO - []
+2019-09-07 14:50:05,996 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,996 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,996 - INFO - min_power_disc: 0
+2019-09-07 14:50:05,996 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,996 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,996 - INFO - mean_player_disc: 8
+2019-09-07 14:50:05,996 - INFO - min_player_disc: 2
+2019-09-07 14:50:05,996 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,996 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,996 - INFO - gain: 2.634173
+2019-09-07 14:50:05,996 - INFO - police  right
+2019-09-07 14:50:05,996 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,996 - INFO - []
+2019-09-07 14:50:05,996 - INFO - bool_overlay: 0
+2019-09-07 14:50:05,996 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:05,996 - INFO - min_power_disc: 0
+2019-09-07 14:50:05,996 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:05,996 - INFO - last_pos_disc: 2
+2019-09-07 14:50:05,996 - INFO - mean_player_disc: 8
+2019-09-07 14:50:05,996 - INFO - min_player_disc: 2
+2019-09-07 14:50:05,996 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:05,996 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:05,996 - INFO - gain: 2.634173
+2019-09-07 14:50:05,996 - INFO - police  stop
+2019-09-07 14:50:05,996 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:05,996 - INFO - []
+2019-09-07 14:50:06,006 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,006 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,006 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,006 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,006 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,006 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,006 - INFO - min_player_disc: 1
+2019-09-07 14:50:06,006 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,006 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,006 - INFO - gain: 0.450840
+2019-09-07 14:50:06,006 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,006 - INFO - {1: -0.03249341732493411, 2: -2.432493417324934, 3: 2.6341732493417327, 4: 2.6341732493417327, 5: 0.45083991600839923}
+2019-09-07 14:50:06,006 - INFO - action: 
+2019-09-07 14:50:06,006 - INFO - [{'player_id': 3, 'move': ['up'], 'team': 2222}, {'player_id': 0, 'move': ['right'], 'team': 2222}, {'player_id': 1, 'move': ['left'], 'team': 2222}, {'player_id': 2, 'move': ['right'], 'team': 2222}]
+2019-09-07 14:50:06,026 - INFO -                     round 3
+2019-09-07 14:50:06,026 - INFO - player_id 1
+2019-09-07 14:50:06,026 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,026 - INFO - {}
+2019-09-07 14:50:06,026 - INFO - player_pos: 
+2019-09-07 14:50:06,026 - INFO - Point2d(8, 5)
+2019-09-07 14:50:06,026 - INFO - police  left
+2019-09-07 14:50:06,026 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,026 - INFO - []
+2019-09-07 14:50:06,036 - INFO - greatPower: 
+2019-09-07 14:50:06,036 - INFO - [Point2d(8, 15), Point2d(12, 15)]
+2019-09-07 14:50:06,036 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,036 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,036 - INFO - min_power_disc: 10000
+2019-09-07 14:50:06,036 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:06,036 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,036 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,036 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,036 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,036 - INFO - nearest_greatpower_disc: 11
+2019-09-07 14:50:06,036 - INFO - gain: -0.346479
+2019-09-07 14:50:06,036 - INFO - police  right
+2019-09-07 14:50:06,036 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,036 - INFO - []
+2019-09-07 14:50:06,036 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,036 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,036 - INFO - min_power_disc: 3
+2019-09-07 14:50:06,036 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,036 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,036 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,036 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,036 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,036 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,036 - INFO - gain: -0.261660
+2019-09-07 14:50:06,036 - INFO - police  stop
+2019-09-07 14:50:06,036 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,036 - INFO - []
+2019-09-07 14:50:06,046 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,046 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,046 - INFO - min_power_disc: 4
+2019-09-07 14:50:06,046 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,046 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,046 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,046 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,046 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,046 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,046 - INFO - gain: -0.411660
+2019-09-07 14:50:06,046 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,046 - INFO - {3: -0.34647916160764874, 4: -0.2616600839916009, 5: -0.4116600839916009}
+2019-09-07 14:50:06,046 - INFO - player_id 3
+2019-09-07 14:50:06,046 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,046 - INFO - {1: Point2d(9, 5)}
+2019-09-07 14:50:06,046 - INFO - player_pos: 
+2019-09-07 14:50:06,046 - INFO - Point2d(9, 16)
+2019-09-07 14:50:06,046 - INFO - police  up
+2019-09-07 14:50:06,046 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,046 - INFO - []
+2019-09-07 14:50:06,046 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,046 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,046 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,046 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,046 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,046 - INFO - mean_player_disc: 10
+2019-09-07 14:50:06,046 - INFO - min_player_disc: 10
+2019-09-07 14:50:06,046 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,046 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,046 - INFO - gain: 1.158416
+2019-09-07 14:50:06,046 - INFO - police  down
+2019-09-07 14:50:06,046 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,046 - INFO - []
+2019-09-07 14:50:06,055 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,055 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,055 - INFO - min_power_disc: 3
+2019-09-07 14:50:06,055 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,055 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,055 - INFO - mean_player_disc: 12
+2019-09-07 14:50:06,055 - INFO - min_player_disc: 12
+2019-09-07 14:50:06,055 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,055 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,055 - INFO - gain: -0.256852
+2019-09-07 14:50:06,055 - INFO - police  right
+2019-09-07 14:50:06,055 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,055 - INFO - []
+2019-09-07 14:50:06,055 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,055 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,055 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,055 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,055 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,055 - INFO - mean_player_disc: 12
+2019-09-07 14:50:06,055 - INFO - min_player_disc: 12
+2019-09-07 14:50:06,055 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,055 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,055 - INFO - gain: 0.659814
+2019-09-07 14:50:06,055 - INFO - police  stop
+2019-09-07 14:50:06,055 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,055 - INFO - []
+2019-09-07 14:50:06,055 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,055 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,055 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,055 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,055 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,055 - INFO - mean_player_disc: 11
+2019-09-07 14:50:06,055 - INFO - min_player_disc: 11
+2019-09-07 14:50:06,055 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,055 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,055 - INFO - gain: -0.007493
+2019-09-07 14:50:06,055 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,055 - INFO - {1: 1.158415673584157, 2: -0.25685239168390855, 4: 0.6598142749827584, 5: -0.007493417324934106}
+2019-09-07 14:50:06,055 - INFO - player_id 0
+2019-09-07 14:50:06,055 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,055 - INFO - {1: Point2d(9, 5), 3: Point2d(9, 15)}
+2019-09-07 14:50:06,055 - INFO - player_pos: 
+2019-09-07 14:50:06,055 - INFO - Point2d(11, 5)
+2019-09-07 14:50:06,055 - INFO - police  up
+2019-09-07 14:50:06,055 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,055 - INFO - []
+2019-09-07 14:50:06,065 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,065 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,065 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,065 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,065 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,065 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,065 - INFO - min_player_disc: 3
+2019-09-07 14:50:06,065 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,065 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,065 - INFO - gain: 0.642507
+2019-09-07 14:50:06,065 - INFO - police  down
+2019-09-07 14:50:06,065 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,065 - INFO - []
+2019-09-07 14:50:06,065 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,065 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,065 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,065 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,065 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,065 - INFO - mean_player_disc: 7
+2019-09-07 14:50:06,065 - INFO - min_player_disc: 3
+2019-09-07 14:50:06,065 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,065 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,065 - INFO - gain: 0.642507
+2019-09-07 14:50:06,065 - INFO - police  left
+2019-09-07 14:50:06,065 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,065 - INFO - []
+2019-09-07 14:50:06,075 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,075 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,075 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,075 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,075 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,075 - INFO - mean_player_disc: 6
+2019-09-07 14:50:06,075 - INFO - min_player_disc: 1
+2019-09-07 14:50:06,075 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,075 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,075 - INFO - gain: -0.049160
+2019-09-07 14:50:06,075 - INFO - police  right
+2019-09-07 14:50:06,075 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,075 - INFO - []
+2019-09-07 14:50:06,085 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,085 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,085 - INFO - min_power_disc: 0
+2019-09-07 14:50:06,085 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,085 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,085 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,085 - INFO - min_player_disc: 3
+2019-09-07 14:50:06,085 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,085 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,085 - INFO - gain: 2.642507
+2019-09-07 14:50:06,085 - INFO - police  stop
+2019-09-07 14:50:06,085 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,085 - INFO - []
+2019-09-07 14:50:06,085 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,085 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,085 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,085 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,085 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,085 - INFO - mean_player_disc: 7
+2019-09-07 14:50:06,085 - INFO - min_player_disc: 2
+2019-09-07 14:50:06,085 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,085 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,085 - INFO - gain: 0.467507
+2019-09-07 14:50:06,085 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,085 - INFO - {1: 0.642506582675066, 2: 0.642506582675066, 3: -0.04916008399160078, 4: 2.642506582675066, 5: 0.4675065826750659}
+2019-09-07 14:50:06,085 - INFO - player_id 2
+2019-09-07 14:50:06,085 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,085 - INFO - {0: Point2d(12, 5), 1: Point2d(9, 5), 3: Point2d(9, 15)}
+2019-09-07 14:50:06,085 - INFO - player_pos: 
+2019-09-07 14:50:06,085 - INFO - Point2d(10, 15)
+2019-09-07 14:50:06,085 - INFO - police  up
+2019-09-07 14:50:06,085 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,085 - INFO - []
+2019-09-07 14:50:06,095 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,095 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,095 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,095 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,095 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,095 - INFO - mean_player_disc: 7
+2019-09-07 14:50:06,095 - INFO - min_player_disc: 2
+2019-09-07 14:50:06,095 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,095 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,095 - INFO - gain: 0.634173
+2019-09-07 14:50:06,095 - INFO - police  down
+2019-09-07 14:50:06,095 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,095 - INFO - []
+2019-09-07 14:50:06,095 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,095 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,095 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,095 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,095 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,095 - INFO - mean_player_disc: 9
+2019-09-07 14:50:06,095 - INFO - min_player_disc: 2
+2019-09-07 14:50:06,095 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,095 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,095 - INFO - gain: 0.634173
+2019-09-07 14:50:06,095 - INFO - police  left
+2019-09-07 14:50:06,095 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,095 - INFO - []
+2019-09-07 14:50:06,105 - INFO - bool_overlay: 1
+2019-09-07 14:50:06,105 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,105 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,105 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,105 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,105 - INFO - mean_player_disc: 7
+2019-09-07 14:50:06,105 - INFO - min_player_disc: 0
+2019-09-07 14:50:06,105 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,105 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,105 - INFO - gain: -2.599160
+2019-09-07 14:50:06,105 - INFO - police  right
+2019-09-07 14:50:06,105 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,105 - INFO - []
+2019-09-07 14:50:06,105 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,105 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,105 - INFO - min_power_disc: 0
+2019-09-07 14:50:06,105 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,105 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,105 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,105 - INFO - min_player_disc: 2
+2019-09-07 14:50:06,105 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,105 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,105 - INFO - gain: 2.621683
+2019-09-07 14:50:06,105 - INFO - police  stop
+2019-09-07 14:50:06,105 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,105 - INFO - []
+2019-09-07 14:50:06,115 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,115 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,115 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,115 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,115 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,115 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,115 - INFO - min_player_disc: 1
+2019-09-07 14:50:06,115 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,115 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,115 - INFO - gain: 0.450840
+2019-09-07 14:50:06,115 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,115 - INFO - {1: 0.6341732493417327, 2: 0.6341732493417327, 3: -2.5991600839916007, 4: 2.6216832483418324, 5: 0.45083991600839923}
+2019-09-07 14:50:06,115 - INFO - action: 
+2019-09-07 14:50:06,115 - INFO - [{'player_id': 1, 'move': ['right'], 'team': 2222}, {'player_id': 3, 'move': ['up'], 'team': 2222}, {'player_id': 0, 'move': ['right'], 'team': 2222}, {'player_id': 2, 'move': ['right'], 'team': 2222}]
+2019-09-07 14:50:06,135 - INFO -                     round 4
+2019-09-07 14:50:06,135 - INFO - player_id 2
+2019-09-07 14:50:06,135 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,135 - INFO - {}
+2019-09-07 14:50:06,135 - INFO - player_pos: 
+2019-09-07 14:50:06,135 - INFO - Point2d(11, 15)
+2019-09-07 14:50:06,135 - INFO - police  up
+2019-09-07 14:50:06,135 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,135 - INFO - []
+2019-09-07 14:50:06,135 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,135 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,135 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,135 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,135 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,135 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,135 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,135 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,135 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,135 - INFO - gain: 1.167367
+2019-09-07 14:50:06,135 - INFO - police  down
+2019-09-07 14:50:06,135 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,135 - INFO - []
+2019-09-07 14:50:06,145 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,145 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,145 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,145 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,145 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,145 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,145 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,145 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,145 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,145 - INFO - gain: 0.667517
+2019-09-07 14:50:06,145 - INFO - police  left
+2019-09-07 14:50:06,145 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,145 - INFO - []
+2019-09-07 14:50:06,145 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,145 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,145 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,145 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,145 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,145 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,145 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,145 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,145 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,145 - INFO - gain: 0.000850
+2019-09-07 14:50:06,145 - INFO - police  right
+2019-09-07 14:50:06,145 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,145 - INFO - []
+2019-09-07 14:50:06,145 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,145 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,145 - INFO - min_power_disc: 0
+2019-09-07 14:50:06,145 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:06,145 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,145 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,145 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,145 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,145 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,145 - INFO - gain: 2.681792
+2019-09-07 14:50:06,145 - INFO - police  stop
+2019-09-07 14:50:06,145 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,145 - INFO - []
+2019-09-07 14:50:06,155 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,155 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,155 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,155 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,155 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,155 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,155 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,155 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,155 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,155 - INFO - gain: 0.513340
+2019-09-07 14:50:06,155 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,155 - INFO - {1: 1.1673665966736662, 2: 0.667516581675166, 3: 0.0008499150084992164, 4: 2.68179229696078, 5: 0.5133399160083992}
+2019-09-07 14:50:06,155 - INFO - player_id 0
+2019-09-07 14:50:06,155 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,155 - INFO - {2: Point2d(12, 15)}
+2019-09-07 14:50:06,155 - INFO - player_pos: 
+2019-09-07 14:50:06,155 - INFO - Point2d(12, 5)
+2019-09-07 14:50:06,155 - INFO - police  left
+2019-09-07 14:50:06,155 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,155 - INFO - []
+2019-09-07 14:50:06,155 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,155 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,155 - INFO - min_power_disc: 3
+2019-09-07 14:50:06,155 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,155 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,155 - INFO - mean_player_disc: 11
+2019-09-07 14:50:06,155 - INFO - min_player_disc: 11
+2019-09-07 14:50:06,155 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,155 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,155 - INFO - gain: -0.257473
+2019-09-07 14:50:06,165 - INFO - police  right
+2019-09-07 14:50:06,165 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,165 - INFO - []
+2019-09-07 14:50:06,165 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,165 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,165 - INFO - min_power_disc: 7
+2019-09-07 14:50:06,165 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,165 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,165 - INFO - mean_player_disc: 13
+2019-09-07 14:50:06,165 - INFO - min_player_disc: 13
+2019-09-07 14:50:06,165 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,165 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,165 - INFO - gain: 0.035384
+2019-09-07 14:50:06,165 - INFO - police  stop
+2019-09-07 14:50:06,165 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,165 - INFO - []
+2019-09-07 14:50:06,165 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,165 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,165 - INFO - min_power_disc: 4
+2019-09-07 14:50:06,165 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,165 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,165 - INFO - mean_player_disc: 10
+2019-09-07 14:50:06,176 - INFO - min_player_disc: 10
+2019-09-07 14:50:06,176 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,176 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,176 - INFO - gain: -0.408231
+2019-09-07 14:50:06,176 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,176 - INFO - {3: -0.2574734193247342, 4: 0.03538372353240869, 5: -0.40823099508231}
+2019-09-07 14:50:06,176 - INFO - player_id 1
+2019-09-07 14:50:06,176 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,176 - INFO - {0: Point2d(13, 5), 2: Point2d(12, 15)}
+2019-09-07 14:50:06,176 - INFO - player_pos: 
+2019-09-07 14:50:06,176 - INFO - Point2d(9, 5)
+2019-09-07 14:50:06,176 - INFO - police  up
+2019-09-07 14:50:06,176 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,176 - INFO - []
+2019-09-07 14:50:06,176 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,176 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,176 - INFO - min_power_disc: 6
+2019-09-07 14:50:06,176 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,176 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,176 - INFO - mean_player_disc: 9
+2019-09-07 14:50:06,176 - INFO - min_player_disc: 5
+2019-09-07 14:50:06,176 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,176 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,176 - INFO - gain: 0.079431
+2019-09-07 14:50:06,176 - INFO - police  down
+2019-09-07 14:50:06,176 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,176 - INFO - []
+2019-09-07 14:50:06,176 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,176 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,176 - INFO - min_power_disc: 4
+2019-09-07 14:50:06,176 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:06,176 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,176 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,176 - INFO - min_player_disc: 5
+2019-09-07 14:50:06,176 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,176 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,176 - INFO - gain: 0.265136
+2019-09-07 14:50:06,176 - INFO - police  left
+2019-09-07 14:50:06,176 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,176 - INFO - []
+2019-09-07 14:50:06,186 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,186 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,186 - INFO - min_power_disc: 6
+2019-09-07 14:50:06,186 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,186 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,186 - INFO - mean_player_disc: 9
+2019-09-07 14:50:06,186 - INFO - min_player_disc: 5
+2019-09-07 14:50:06,186 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,186 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,186 - INFO - gain: -0.574745
+2019-09-07 14:50:06,186 - INFO - police  right
+2019-09-07 14:50:06,186 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,186 - INFO - []
+2019-09-07 14:50:06,186 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,186 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,186 - INFO - min_power_disc: 4
+2019-09-07 14:50:06,186 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,186 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,186 - INFO - mean_player_disc: 7
+2019-09-07 14:50:06,186 - INFO - min_player_disc: 3
+2019-09-07 14:50:06,186 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,186 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,186 - INFO - gain: 0.242527
+2019-09-07 14:50:06,186 - INFO - police  stop
+2019-09-07 14:50:06,186 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,186 - INFO - []
+2019-09-07 14:50:06,196 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,196 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,196 - INFO - min_power_disc: 5
+2019-09-07 14:50:06,196 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,196 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,196 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,196 - INFO - min_player_disc: 4
+2019-09-07 14:50:06,196 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,196 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,196 - INFO - gain: -0.506650
+2019-09-07 14:50:06,196 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,196 - INFO - {1: 0.07943134258002771, 2: 0.2651356292942134, 3: -0.574745323086739, 4: 0.24252658067526578, 5: -0.5066500849915008}
+2019-09-07 14:50:06,196 - INFO - player_id 3
+2019-09-07 14:50:06,196 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,196 - INFO - {0: Point2d(13, 5), 1: Point2d(9, 6), 2: Point2d(12, 15)}
+2019-09-07 14:50:06,196 - INFO - player_pos: 
+2019-09-07 14:50:06,196 - INFO - Point2d(9, 15)
+2019-09-07 14:50:06,196 - INFO - police  up
+2019-09-07 14:50:06,196 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,196 - INFO - []
+2019-09-07 14:50:06,196 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,196 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,196 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,196 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,196 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,196 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,196 - INFO - min_player_disc: 4
+2019-09-07 14:50:06,196 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,196 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,196 - INFO - gain: 0.647527
+2019-09-07 14:50:06,196 - INFO - police  down
+2019-09-07 14:50:06,196 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,196 - INFO - []
+2019-09-07 14:50:06,206 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,206 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,206 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,206 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,206 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,206 - INFO - mean_player_disc: 9
+2019-09-07 14:50:06,206 - INFO - min_player_disc: 4
+2019-09-07 14:50:06,206 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,206 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,206 - INFO - gain: -0.019140
+2019-09-07 14:50:06,206 - INFO - police  left
+2019-09-07 14:50:06,206 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,206 - INFO - []
+2019-09-07 14:50:06,206 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,206 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,206 - INFO - min_power_disc: 0
+2019-09-07 14:50:06,206 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,206 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,206 - INFO - mean_player_disc: 9
+2019-09-07 14:50:06,206 - INFO - min_player_disc: 4
+2019-09-07 14:50:06,206 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,206 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,206 - INFO - gain: 2.647527
+2019-09-07 14:50:06,206 - INFO - police  right
+2019-09-07 14:50:06,206 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,206 - INFO - []
+2019-09-07 14:50:06,216 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,216 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,216 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,216 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,216 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,216 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,216 - INFO - min_player_disc: 2
+2019-09-07 14:50:06,216 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,216 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,216 - INFO - gain: 0.634193
+2019-09-07 14:50:06,216 - INFO - police  stop
+2019-09-07 14:50:06,216 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,216 - INFO - []
+2019-09-07 14:50:06,216 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,216 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,216 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,216 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,216 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,216 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,216 - INFO - min_player_disc: 3
+2019-09-07 14:50:06,216 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,216 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,216 - INFO - gain: 0.475860
+2019-09-07 14:50:06,216 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,216 - INFO - {1: 0.647526580675266, 2: -0.019140085991400792, 3: 2.6475265806752657, 4: 0.6341932473419327, 5: 0.4758599140085992}
+2019-09-07 14:50:06,216 - INFO - action: 
+2019-09-07 14:50:06,216 - INFO - [{'player_id': 2, 'move': ['right'], 'team': 2222}, {'player_id': 0, 'move': ['right'], 'team': 2222}, {'player_id': 1, 'move': ['down'], 'team': 2222}, {'player_id': 3, 'move': ['left'], 'team': 2222}]
+2019-09-07 14:50:06,236 - INFO -                     round 5
+2019-09-07 14:50:06,236 - INFO - player_id 3
+2019-09-07 14:50:06,236 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,236 - INFO - {}
+2019-09-07 14:50:06,236 - INFO - player_pos: 
+2019-09-07 14:50:06,236 - INFO - Point2d(8, 15)
+2019-09-07 14:50:06,236 - INFO - police  left
+2019-09-07 14:50:06,236 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,236 - INFO - []
+2019-09-07 14:50:06,246 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,246 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,246 - INFO - min_power_disc: 7
+2019-09-07 14:50:06,246 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,246 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,246 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,246 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,246 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,246 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,246 - INFO - gain: 0.055007
+2019-09-07 14:50:06,246 - INFO - police  right
+2019-09-07 14:50:06,246 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,246 - INFO - []
+2019-09-07 14:50:06,246 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,246 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,246 - INFO - min_power_disc: 7
+2019-09-07 14:50:06,246 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,246 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,246 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,246 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,246 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,246 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,246 - INFO - gain: -0.624150
+2019-09-07 14:50:06,246 - INFO - police  stop
+2019-09-07 14:50:06,246 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,246 - INFO - []
+2019-09-07 14:50:06,256 - INFO - greatPower: 
+2019-09-07 14:50:06,256 - INFO - []
+2019-09-07 14:50:06,256 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,256 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,256 - INFO - min_power_disc: 10000
+2019-09-07 14:50:06,256 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,256 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,256 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,256 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,256 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,256 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,256 - INFO - gain: -0.998850
+2019-09-07 14:50:06,256 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,256 - INFO - {3: 0.05500658267506585, 4: -0.6241500849915007, 5: -0.9988501149885011}
+2019-09-07 14:50:06,256 - INFO - player_id 1
+2019-09-07 14:50:06,256 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,256 - INFO - {3: Point2d(7, 15)}
+2019-09-07 14:50:06,256 - INFO - player_pos: 
+2019-09-07 14:50:06,256 - INFO - Point2d(9, 6)
+2019-09-07 14:50:06,256 - INFO - police  up
+2019-09-07 14:50:06,256 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,256 - INFO - []
+2019-09-07 14:50:06,256 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,256 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,256 - INFO - min_power_disc: 5
+2019-09-07 14:50:06,256 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,256 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,256 - INFO - mean_player_disc: 12
+2019-09-07 14:50:06,256 - INFO - min_player_disc: 12
+2019-09-07 14:50:06,256 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,256 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,256 - INFO - gain: -0.494342
+2019-09-07 14:50:06,256 - INFO - police  down
+2019-09-07 14:50:06,256 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,256 - INFO - []
+2019-09-07 14:50:06,256 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,256 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,256 - INFO - min_power_disc: 3
+2019-09-07 14:50:06,256 - INFO - min_wormhole_disc: 5
+2019-09-07 14:50:06,256 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,256 - INFO - mean_player_disc: 10
+2019-09-07 14:50:06,256 - INFO - min_player_disc: 10
+2019-09-07 14:50:06,256 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,256 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,256 - INFO - gain: 0.425092
+2019-09-07 14:50:06,256 - INFO - police  right
+2019-09-07 14:50:06,256 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,256 - INFO - []
+2019-09-07 14:50:06,266 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,266 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,266 - INFO - min_power_disc: 3
+2019-09-07 14:50:06,266 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,266 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,266 - INFO - mean_player_disc: 12
+2019-09-07 14:50:06,266 - INFO - min_player_disc: 12
+2019-09-07 14:50:06,266 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,266 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,266 - INFO - gain: 0.422324
+2019-09-07 14:50:06,266 - INFO - police  stop
+2019-09-07 14:50:06,266 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,266 - INFO - []
+2019-09-07 14:50:06,266 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,266 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,266 - INFO - min_power_disc: 4
+2019-09-07 14:50:06,266 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:06,266 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,266 - INFO - mean_player_disc: 11
+2019-09-07 14:50:06,266 - INFO - min_player_disc: 11
+2019-09-07 14:50:06,266 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,266 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,266 - INFO - gain: -0.393198
+2019-09-07 14:50:06,266 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,266 - INFO - {1: -0.4943423926838086, 2: 0.4250923392509234, 4: 0.42232427398285816, 5: -0.39319770403911997}
+2019-09-07 14:50:06,266 - INFO - player_id 2
+2019-09-07 14:50:06,266 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,266 - INFO - {1: Point2d(9, 7), 3: Point2d(7, 15)}
+2019-09-07 14:50:06,266 - INFO - player_pos: 
+2019-09-07 14:50:06,266 - INFO - Point2d(12, 15)
+2019-09-07 14:50:06,266 - INFO - police  left
+2019-09-07 14:50:06,266 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,266 - INFO - []
+2019-09-07 14:50:06,276 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,276 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,276 - INFO - min_power_disc: 7
+2019-09-07 14:50:06,276 - INFO - min_wormhole_disc: 7
+2019-09-07 14:50:06,276 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,276 - INFO - mean_player_disc: 7
+2019-09-07 14:50:06,276 - INFO - min_player_disc: 4
+2019-09-07 14:50:06,276 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,276 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,276 - INFO - gain: -0.631650
+2019-09-07 14:50:06,276 - INFO - police  right
+2019-09-07 14:50:06,276 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,276 - INFO - []
+2019-09-07 14:50:06,276 - INFO - greatPower: 
+2019-09-07 14:50:06,276 - INFO - []
+2019-09-07 14:50:06,276 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,276 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,276 - INFO - min_power_disc: 10000
+2019-09-07 14:50:06,276 - INFO - min_wormhole_disc: 5
+2019-09-07 14:50:06,276 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,276 - INFO - mean_player_disc: 11
+2019-09-07 14:50:06,276 - INFO - min_player_disc: 8
+2019-09-07 14:50:06,276 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,276 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,276 - INFO - gain: -0.326628
+2019-09-07 14:50:06,276 - INFO - police  stop
+2019-09-07 14:50:06,276 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,276 - INFO - []
+2019-09-07 14:50:06,286 - INFO - greatPower: 
+2019-09-07 14:50:06,286 - INFO - []
+2019-09-07 14:50:06,286 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,286 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,286 - INFO - min_power_disc: 10000
+2019-09-07 14:50:06,286 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:06,286 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,286 - INFO - mean_player_disc: 8
+2019-09-07 14:50:06,286 - INFO - min_player_disc: 5
+2019-09-07 14:50:06,286 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,286 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,286 - INFO - gain: -1.001231
+2019-09-07 14:50:06,286 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,286 - INFO - {3: -0.6316500849915008, 4: -0.3266278927662789, 5: -1.0012310673694536}
+2019-09-07 14:50:06,286 - INFO - player_id 0
+2019-09-07 14:50:06,286 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,286 - INFO - {1: Point2d(9, 7), 2: Point2d(13, 15), 3: Point2d(7, 15)}
+2019-09-07 14:50:06,286 - INFO - player_pos: 
+2019-09-07 14:50:06,286 - INFO - Point2d(15, 5)
+2019-09-07 14:50:06,286 - INFO - police  up
+2019-09-07 14:50:06,286 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,286 - INFO - []
+2019-09-07 14:50:06,286 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,286 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,286 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,286 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,286 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,286 - INFO - mean_player_disc: 13
+2019-09-07 14:50:06,286 - INFO - min_player_disc: 9
+2019-09-07 14:50:06,286 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,286 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,286 - INFO - gain: 0.657527
+2019-09-07 14:50:06,286 - INFO - police  down
+2019-09-07 14:50:06,286 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,286 - INFO - []
+2019-09-07 14:50:06,296 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,296 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,296 - INFO - min_power_disc: 4
+2019-09-07 14:50:06,296 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,296 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,296 - INFO - mean_player_disc: 11
+2019-09-07 14:50:06,296 - INFO - min_player_disc: 7
+2019-09-07 14:50:06,296 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,296 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,296 - INFO - gain: 0.255027
+2019-09-07 14:50:06,296 - INFO - police  left
+2019-09-07 14:50:06,296 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,296 - INFO - []
+2019-09-07 14:50:06,305 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,305 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,305 - INFO - min_power_disc: 3
+2019-09-07 14:50:06,305 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,305 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,305 - INFO - mean_player_disc: 12
+2019-09-07 14:50:06,305 - INFO - min_player_disc: 8
+2019-09-07 14:50:06,305 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,305 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,305 - INFO - gain: -0.260251
+2019-09-07 14:50:06,305 - INFO - police  right
+2019-09-07 14:50:06,305 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,305 - INFO - []
+2019-09-07 14:50:06,305 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,305 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,305 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,305 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,305 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,305 - INFO - mean_player_disc: 13
+2019-09-07 14:50:06,305 - INFO - min_player_disc: 9
+2019-09-07 14:50:06,305 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,305 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,305 - INFO - gain: 0.657527
+2019-09-07 14:50:06,305 - INFO - police  stop
+2019-09-07 14:50:06,305 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,305 - INFO - []
+2019-09-07 14:50:06,315 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,315 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,315 - INFO - min_power_disc: 3
+2019-09-07 14:50:06,315 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,315 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,315 - INFO - mean_player_disc: 12
+2019-09-07 14:50:06,315 - INFO - min_player_disc: 8
+2019-09-07 14:50:06,315 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,315 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,315 - INFO - gain: -0.260251
+2019-09-07 14:50:06,315 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,315 - INFO - {1: 0.657526580675266, 2: 0.2550265806752658, 3: -0.260251197102512, 4: 0.657526580675266, 5: -0.260251197102512}
+2019-09-07 14:50:06,315 - INFO - action: 
+2019-09-07 14:50:06,315 - INFO - [{'player_id': 3, 'move': ['left'], 'team': 2222}, {'player_id': 1, 'move': ['down'], 'team': 2222}, {'player_id': 2, 'move': ['right'], 'team': 2222}, {'player_id': 0, 'move': ['right'], 'team': 2222}]
+2019-09-07 14:50:06,335 - INFO -                     round 6
+2019-09-07 14:50:06,335 - INFO - Just One Step Away! Go Cover It!
+2019-09-07 14:50:06,335 - INFO - fakeCloseEnermyPolice: 
+2019-09-07 14:50:06,335 - INFO - [Point2d(16, 14), Point2d(16, 16), Point2d(17, 15)]
+2019-09-07 14:50:06,335 - INFO - player_id 2
+2019-09-07 14:50:06,335 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,335 - INFO - {}
+2019-09-07 14:50:06,335 - INFO - player_pos: 
+2019-09-07 14:50:06,335 - INFO - Point2d(15, 15)
+2019-09-07 14:50:06,335 - INFO - police  up
+2019-09-07 14:50:06,335 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,335 - INFO - [Point2d(16, 14), Point2d(16, 16), Point2d(17, 15), Point2d(16, 13), Point2d(15, 14), Point2d(17, 14), Point2d(15, 16), Point2d(17, 16), Point2d(18, 15)]
+2019-09-07 14:50:06,335 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,335 - INFO - min_enermy_disc: 2
+2019-09-07 14:50:06,335 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,335 - INFO - min_wormhole_disc: 4
+2019-09-07 14:50:06,335 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,335 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,335 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,335 - INFO - min_fake_enermy_disc: 0
+2019-09-07 14:50:06,335 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,335 - INFO - gain: 5.520140
+2019-09-07 14:50:06,335 - INFO - police  down
+2019-09-07 14:50:06,335 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,335 - INFO - [Point2d(16, 14), Point2d(16, 16), Point2d(17, 15), Point2d(16, 13), Point2d(15, 14), Point2d(17, 14), Point2d(15, 16), Point2d(17, 16), Point2d(18, 15)]
+2019-09-07 14:50:06,335 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,335 - INFO - min_enermy_disc: 2
+2019-09-07 14:50:06,335 - INFO - min_power_disc: 3
+2019-09-07 14:50:06,335 - INFO - min_wormhole_disc: 6
+2019-09-07 14:50:06,335 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,335 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,335 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,335 - INFO - min_fake_enermy_disc: 0
+2019-09-07 14:50:06,335 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,335 - INFO - gain: 4.764426
+2019-09-07 14:50:06,335 - INFO - police  left
+2019-09-07 14:50:06,335 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,335 - INFO - [Point2d(16, 14), Point2d(16, 16), Point2d(17, 15), Point2d(16, 13), Point2d(15, 14), Point2d(17, 14), Point2d(15, 16), Point2d(17, 16), Point2d(18, 15)]
+2019-09-07 14:50:06,335 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,335 - INFO - min_enermy_disc: 1
+2019-09-07 14:50:06,335 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,335 - INFO - min_wormhole_disc: 5
+2019-09-07 14:50:06,335 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,335 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,335 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,335 - INFO - min_fake_enermy_disc: 1
+2019-09-07 14:50:06,335 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,335 - INFO - gain: 3.516807
+2019-09-07 14:50:06,335 - INFO - police  right
+2019-09-07 14:50:06,335 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,335 - INFO - [Point2d(16, 14), Point2d(16, 16), Point2d(17, 15), Point2d(16, 13), Point2d(15, 14), Point2d(17, 14), Point2d(15, 16), Point2d(17, 16), Point2d(18, 15)]
+2019-09-07 14:50:06,335 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,335 - INFO - min_enermy_disc: 0
+2019-09-07 14:50:06,335 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,345 - INFO - min_wormhole_disc: 4
+2019-09-07 14:50:06,345 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,345 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,345 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,345 - INFO - min_fake_enermy_disc: 1
+2019-09-07 14:50:06,345 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,345 - INFO - gain: 6.686807
+2019-09-07 14:50:06,345 - INFO - police  stop
+2019-09-07 14:50:06,345 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,345 - INFO - [Point2d(16, 14), Point2d(16, 16), Point2d(17, 15), Point2d(16, 13), Point2d(15, 14), Point2d(17, 14), Point2d(15, 16), Point2d(17, 16), Point2d(18, 15)]
+2019-09-07 14:50:06,345 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,345 - INFO - min_enermy_disc: 1
+2019-09-07 14:50:06,345 - INFO - min_power_disc: 2
+2019-09-07 14:50:06,345 - INFO - min_wormhole_disc: 5
+2019-09-07 14:50:06,345 - INFO - last_pos_disc: 0
+2019-09-07 14:50:06,345 - INFO - mean_player_disc: 10000
+2019-09-07 14:50:06,345 - INFO - min_player_disc: 10000
+2019-09-07 14:50:06,345 - INFO - min_fake_enermy_disc: 1
+2019-09-07 14:50:06,345 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,345 - INFO - gain: 3.516807
+2019-09-07 14:50:06,345 - INFO - police. choices_gains: 
+2019-09-07 14:50:06,345 - INFO - {1: 5.520139986001399, 2: 4.764425700287114, 3: 3.5168066526680666, 4: 6.686806652668066, 5: 3.5168066526680666}
+2019-09-07 14:50:06,345 - INFO - player_id 0
+2019-09-07 14:50:06,345 - INFO - cur_round_player_next_pos: 
+2019-09-07 14:50:06,345 - INFO - {2: Point2d(16, 15)}
+2019-09-07 14:50:06,345 - INFO - player_pos: 
+2019-09-07 14:50:06,345 - INFO - Point2d(16, 5)
+2019-09-07 14:50:06,345 - INFO - police  up
+2019-09-07 14:50:06,345 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,345 - INFO - [Point2d(16, 14), Point2d(16, 16), Point2d(17, 15), Point2d(16, 13), Point2d(15, 14), Point2d(17, 14), Point2d(15, 16), Point2d(17, 16), Point2d(18, 15)]
+2019-09-07 14:50:06,345 - INFO - enermy after removed the nearest_enermy and extend the fakeCloseEnermyPolice: 
+2019-09-07 14:50:06,345 - INFO - [Point2d(3, 16), Point2d(16, 14), Point2d(16, 16), Point2d(17, 15)]
+2019-09-07 14:50:06,345 - INFO - bool_overlay: 0
+2019-09-07 14:50:06,345 - INFO - min_enermy_disc: 10000
+2019-09-07 14:50:06,345 - INFO - min_power_disc: 1
+2019-09-07 14:50:06,345 - INFO - min_wormhole_disc: 10000
+2019-09-07 14:50:06,345 - INFO - last_pos_disc: 2
+2019-09-07 14:50:06,345 - INFO - mean_player_disc: 11
+2019-09-07 14:50:06,345 - INFO - min_player_disc: 11
+2019-09-07 14:50:06,345 - INFO - min_fake_enermy_disc: 10000
+2019-09-07 14:50:06,345 - INFO - nearest_greatpower_disc: 10000
+2019-09-07 14:50:06,345 - INFO - gain: 1.159193
+2019-09-07 14:50:06,345 - INFO - police  down
+2019-09-07 14:50:06,345 - INFO - fakeEnermyPolice: 
+2019-09-07 14:50:06,345 - INFO - [Point2d(16, 14), Point2d(16, 16), Point2d(17, 15), Point2d(16, 13), Point2d(15, 14), Point2d(17, 14), Point2d(15, 16), Point2d(17, 16), Point2d(18, 15)]
